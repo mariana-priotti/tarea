@@ -1,0 +1,27 @@
+.linea{
+    width: 100%;
+    border: 2px solid blue;
+
+}
+
+.libro{
+    
+    border: 2px solid grey;
+    border-left: 2px solid grey;
+
+    
+
+
+}
+
+.borderojo{
+    border-top: 4px dotted red;
+    border-bottom: 4px dotted red;
+    width: 100%;
+
+}
+
+.bordeverde{
+    border: 4px dashed green;
+
+}
